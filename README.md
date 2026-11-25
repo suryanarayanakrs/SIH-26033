@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25-11-2026
+## Reference Number:26017252
+## Name:SURYA NARAYANA K R S
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,47 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
-
+```
+FORMER DIRECT TO SUPERMARKET TO CUSTOMER
+1. RENT THE VEHICLE:
+    Farmer from the same village can book one big vehicle weekly or whenever required to transport their agicultural product.
+2. BULK COLLECTION AND DIRECT DELEVERY:
+    Vehicle collect product from multiple farmer, different village farmer but farmer book the vehicle then only collect the product and direct delivery to supermarket.
+3. PROFIT BENIFIT:
+    By using this method farmer can earn more money because of only one intermediate that is supermarket and supermarket also have benifit they recivied the product in less price and if that product goes to the customer in less price because of decrease the intermediate. 
+```
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+```
+1. FARMER REGISTER:
+    Develop a application using Python and Django where farmers can register, upload product details, quantity and expected prices.
+2. VEHICLE BOOKING: 
+    Use a shared vehicle booking app to combine orders from multiple farmers and allocate a suitable vehicle based on product quantity and delivery location.
+```
+![alt text](<Screenshot 2026-11-25 221057.png>)
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
-
+```
+1. COST EFFECTIVE TRANSPORTATION:
+    Multiple farmers can share one vehicle, reducing individual transportation costs and increasing their profit.
+2. LONG TERM SUSTAINABILITY:
+    Direct partnerships with supermarkets ensure regular orders, stable income for farmers and affordable products price for consumers.
+DRAW BACK:
+1. Vehicle Availability: Sometimes vehicles may not be available when farmers need transportation.
+2. Product Spoilage: Vegetables and fruits may get damaged if delivery is delayed.
+SOLUTION:
+1. Vehicle Availability:Implement an advance vehicle booking system.
+2. Product Spoilage: Use refrigerated vehicles for perishable products when required.
+```
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
-
+```
+1. BENEFIT FOR FARMER:
+    Reduce the transport cost for using a shared vehicle and farmer sell product directly to supermarket so the farmer can earn more profit.
+2. BENIFIT FOR CUSTOMER:
+    Using this kind of system supermarket get quality and fresh product at lower price so customer can recevied the product in less affordable price.
+```
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+```
+1. FAO(Food and Agriculture Organization): Research about transportation systems.
+2. LINK:
+```
+    https://www.fao.org/newsroom/story/the-losses-along-the-way/en?utm
